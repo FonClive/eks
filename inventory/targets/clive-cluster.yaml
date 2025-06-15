@@ -1,6 +1,9 @@
 classes:
   - common
   - my_component
+  - components.terragrunt
 
 parameters:
-  target_name: my_target
+  target_name: clive-cluster
+  inputs:
+   - 
